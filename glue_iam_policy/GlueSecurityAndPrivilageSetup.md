@@ -10,9 +10,14 @@
      ```
    
      -  Create Role for AWS service Glue 
-          ` Select Role >>> Create Role >>> AWS service >>> Select glue >>> Permission  >>> [AWSGlueServiceRole,AmazonS3FullAccess] >>> MyNVirginiaGlueServiceRole >>> Create `
+     ```
+     Select Role >>> Create Role >>> AWS service >>> Select glue >>> Permission  >>> [AWSGlueServiceRole,AmazonS3FullAccess] >>> MyNVirginiaGlueServiceRole >>> Create 
+     ```
           
      - Take a note of ROLE ARN 
-         ` arm:aws:iam::xxxxx:role/MyNVirginiaGlueServiceRole `
+        
+     ```
+     arm:aws:iam::xxxxx:role/MyNVirginiaGlueServiceRole
+     ```
 
 
