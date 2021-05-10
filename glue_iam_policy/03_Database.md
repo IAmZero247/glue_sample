@@ -28,7 +28,11 @@ Go to Glue Dashboard & Choose Region (N Virginia)
             CSV
             Delimiter -> , 
   Step 4 :  Define Schema (Use Add Column Button)   
-            ID ->INT
+            Id -> INT
+            County -> STRING
+            State -> STRING
+            City -> STRING
+            Amount -> DECIMAL
   Step 5 :  Review And Finish        
        
         
