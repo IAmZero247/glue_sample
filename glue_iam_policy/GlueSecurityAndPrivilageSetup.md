@@ -1,7 +1,7 @@
 
 # IAM Policy Setup 
 
-1. GO to IAM dashboard
+1. Go to IAM dashboard
    
      -  Create Policy 
      
