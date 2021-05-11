@@ -13,7 +13,7 @@ Go to Glue Dashboard & Choose Region (N Virginia)
 Go to Glue Dashboard & Choose Region (N Virginia)
 
 ```
-  Databases >>> my_first_glue_db >>> ADD Tables >>> [1. Add Table Using Crawler, 2. Add Table Manually 
+  Databases >>> my_first_glue_db >>> ADD Tables >>> [1. Add Table Using Crawler, 2. Add Table Manually] 
                                      **********
   Now     Add Table Manually >>>  5 Step Process 
   
